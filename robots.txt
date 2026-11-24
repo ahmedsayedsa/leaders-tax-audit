@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leaders-tax-audit.vercel.app/sitemap.xml
